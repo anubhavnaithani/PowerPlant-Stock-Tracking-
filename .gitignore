@@ -1,0 +1,10 @@
+# Tableau temporary files
+*.twb~
+*.tds~
+*.tps
+*.tde
+*.hyper
+
+# System files
+.DS_Store
+Thumbs.db
