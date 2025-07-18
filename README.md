@@ -2,7 +2,7 @@
 
 ### Live Dashboard: https://public.tableau.com/app/profile/anubhav.naithani/viz/PowerPlant_17526422632300/Dashboard1
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
 
