@@ -50,6 +50,5 @@ The analysis is based on three connected CSV files:
 
 ## 👤 Author
 
-* **[Your Name]**
-* [Link to your LinkedIn Profile]
-* [Link to your Portfolio Website]
+* **Anubhav Naithani**
+* https://www.linkedin.com/in/anubhavnaithani/
